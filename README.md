@@ -6,7 +6,6 @@
 🎓 &nbsp;I've just finished an intense Data Science Bootcamp at Le Wagon Bootcamp London.\
 :muscle: &nbsp;I'm now teaching at Data Science cencepts at Le Wagon to aspiring data scientists from analysis, machine learning to ML ops.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, DataBases, and Cloud Architecture.\
-:hospital: &nbsp;I'm also a trained surgical neurophysiologist for the NHS. I write computer programs which helping patients avoid nerve damage.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
