@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies. I'm particularly interested in data and the methods involved in extracting interesting insights.\
-🎓 &nbsp;I've just finished an intense Data Science Bootcamp at Le Wagon Bootcamp London.\
+🎓 &nbsp;I've completed intense Data Science Bootcamp at Le Wagon Bootcamp London.\
 :muscle: &nbsp;I'm now teaching at Data Science cencepts at Le Wagon to aspiring data scientists from analysis, machine learning to ML ops.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, DataBases, and Cloud Architecture.\
 
