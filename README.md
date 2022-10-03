@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies. I'm particularly interested in data and the methods involved in extracting interesting insights.\
 🎓 &nbsp;I've completed an intense Data Science Bootcamp at Le Wagon London.\
-:muscle: &nbsp;I'm now teaching at Data Science cencepts at Le Wagon to aspiring data scientists from analysis, machine learning to ML ops.\
+:muscle: &nbsp;I'm now teaching complex Data Science concepts at Le Wagon to aspiring data scientists such as analysis, machine learninga and ML ops.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, DataBases, and Cloud Architecture.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
